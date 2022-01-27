@@ -5,5 +5,5 @@ Este é o famoso jogo da cobra que começou por aparecer nos velhinhos telemóve
 - cobra.css
 - cobra.js
 
-Depois de fazer o clone do repositório, basta correr o ficheiro **cobra.html** que está ligado aos restantes ficheiros **cobra.js** que contém o script do jogo e **cobra.css* que contém as definições para o layout do jogo.   
+Depois de fazer o clone do repositório, basta correr o ficheiro **cobra.html** que está ligado aos restantes ficheiros **cobra.js** que contém o script do jogo e **cobra.css** que contém as definições para o layout do jogo.   
 
